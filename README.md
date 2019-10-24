@@ -1,6 +1,6 @@
 # splash
 
-A new Flutter application.
+A new Flutter application provrammed using Android Studio.
 
 ## Getting Started
 
